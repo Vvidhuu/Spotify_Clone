@@ -34,7 +34,7 @@ Google Fonts (Montserrat) – For typography.
 
 Clone the repository:
 
-git clone https://github.com/Vvidhuu/Spotify-Clone.git
+[git clone https://github.com/Vvidhuu/Spotify-Clone.git](https://github.com/Vvidhuu/Spotify_Clone.git)
 
 Open SpotifyClone.html in a browser.
 
